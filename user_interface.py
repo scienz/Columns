@@ -826,8 +826,3 @@ class Picture:
     def get_font_shrink_rate(self)-> float:
         return 0.02
 
-
-        
-
-if __name__== '__main__':
-    GameInterface().run()
